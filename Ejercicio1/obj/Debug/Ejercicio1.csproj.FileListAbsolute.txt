@@ -1,0 +1,6 @@
+E:\2DAM\Desarollo de interfaces\Modulo 1\Ejercicios\Relacion4\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+E:\2DAM\Desarollo de interfaces\Modulo 1\Ejercicios\Relacion4\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe
+E:\2DAM\Desarollo de interfaces\Modulo 1\Ejercicios\Relacion4\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.pdb
+E:\2DAM\Desarollo de interfaces\Modulo 1\Ejercicios\Relacion4\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csprojResolveAssemblyReference.cache
+E:\2DAM\Desarollo de interfaces\Modulo 1\Ejercicios\Relacion4\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.exe
+E:\2DAM\Desarollo de interfaces\Modulo 1\Ejercicios\Relacion4\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.pdb
